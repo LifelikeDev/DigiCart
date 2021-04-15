@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# DigiCart
+
+A digital cart web app for online shopping needs. This app is built with React using hooks
+
+=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,8 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# DigiCart
 
-A digital cart web app for online shopping needs. This app is built with React using hooks
->>>>>>> 6c876fde6012b4ac643a55da76d5dcbc841acbb2
+
